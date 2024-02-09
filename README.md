@@ -8,17 +8,29 @@ DO THIS AT YOUR OWN RISK I'M NOT RESPONSIBLE FOR ANYTHING THAT MAY OR WILL HAPPE
 IF YOU DON'T UNDERSTAND KLIPPER OR ARE UNCOMFORTABLE WITH WORKING ON A PRINTER DO NOT ATTEMPT!!
 
 Parts needed:
+
 4x extruder steppers I used nema17 steppers but others should work as well.
+
 4x extruder mechanism's, I'm using ender 3 v2 mechanisms.
+
 1x usb type c cable or usb to uart cable(not tested)
+
 1x SKR pico with klipper flashed to it. Using voron mount for the pico.
+
 1x rooted K1/K1 Max.
+
 1x filament splitter, I used one from thingiverse from the Bambu labs A1
+
 4x or more ptfe guide tubing.
+
 16ga wire to power the skr pico.
+
 A way to manage filament, I'm using the carrot patch from the enraged rabbit carrot feeder.
+
 A mounting system for the extruders as well the filament buffers. I'm using 2020 extrusion with a self designed mount for the steppers.
+
 A way to join together the extrusions, I'm using the ercp extrusion mount file from the user mods section.
+
 A way to lift extrusion off a surface to make room for steppers as well as other items.
 
 That is what I have into this so far.
