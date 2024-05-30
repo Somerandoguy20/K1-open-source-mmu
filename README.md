@@ -41,7 +41,7 @@ Once thats established, create a new .cfg file and copy my config and edit as ne
 
 Next add my other cfg file that handles tool changes, this has macros as well as how the printer handles syncs with the main extruder.
 
-Included in this will also be a .3mf file with my slicer config for mmu printing on the K1.
+Included in this will also be a .3mf file with my slicer config for mmu printing on the K1. USING ORCA SLICER
 
 UPDATE: did finally make a cutter work, how you choose to make this work is up to you, I use a frame moutnted part that must be removed in order to run the bed level and must be reinstalled after calibrations are done.
 
