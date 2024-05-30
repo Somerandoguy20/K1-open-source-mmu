@@ -46,3 +46,5 @@ Included in this will also be a .3mf file with my slicer config for mmu printing
 UPDATE: did finally make a cutter work, how you choose to make this work is up to you, I use a frame moutnted part that must be removed in order to run the bed level and must be reinstalled after calibrations are done.
 
 THIS IS MY FIRST GIT HUB THING SO LET ME KNOW WITH KINDNESS WHAT I GOOFED :)
+
+AS FAR AS LINKS GO I'VE GIVEN ENOUGH INFORMATION TO GET THE BALL ROLLING I'LL ADD MORE AS QUESTIONS COME AROUND.
