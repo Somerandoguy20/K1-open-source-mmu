@@ -17,7 +17,7 @@ Parts needed:
 
 1x SKR pico with klipper flashed to it. Using voron mount for the pico.
 
-1x rooted K1/K1 Max.
+1x ROOTED K1/K1 Max.
 
 1x filament splitter, I used one from thingiverse from the Bambu labs A1
 
@@ -41,10 +41,8 @@ Once thats established, create a new .cfg file and copy my config and edit as ne
 
 Next add my other cfg file that handles tool changes, this has macros as well as how the printer handles syncs with the main extruder.
 
-Included in this will also be a .3mf file with my slicer config for mmu printing on the K1, I use tip forming until a cutter is developed this is what I'll use for now.
+Included in this will also be a .3mf file with my slicer config for mmu printing on the K1.
 
-At this time I have the rear filament run out sensor disconnected and running one on the tool head but it is currently disabled until I or another user gets a good macro set up for it.
-
-Links to all parts will be posted later.
+UPDATE: did finally make a cutter work, how you choose to make this work is up to you, I use a frame moutnted part that must be removed in order to run the bed level and must be reinstalled after calibrations are done.
 
 THIS IS MY FIRST GIT HUB THING SO LET ME KNOW WITH KINDNESS WHAT I GOOFED :)
