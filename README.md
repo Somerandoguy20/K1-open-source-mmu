@@ -1,4 +1,4 @@
-# Enraged-Taco-test
+# OPEN SOURCE K1 MMU
 Multi extruder single hot end mmu.
 
 Multi material printing based off parts I had lying around, this will mainly be how to get this working on the Creality K1, this should also work with the K1 Max. 
