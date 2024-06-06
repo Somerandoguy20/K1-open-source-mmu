@@ -45,6 +45,8 @@ Included in this will also be a .3mf file with my slicer config for mmu printing
 
 UPDATE: did finally make a cutter work, how you choose to make this work is up to you, I use a frame moutnted part that must be removed in order to run the bed level and must be reinstalled after calibrations are done.
 
+Cutter spacer is needed at the rear right of the frame looking at it from the front. In the slicer cut the part off that is highlited in the photo of it or leave it if you'd like to permanently mount it. If you permanently mount it it will interfere with bed leveling when it taps the 4 corners of the bed and may cause skipped steps.
+
 THIS IS MY FIRST GIT HUB THING SO LET ME KNOW WITH KINDNESS WHAT I GOOFED :)
 
 AS FAR AS LINKS GO I'VE GIVEN ENOUGH INFORMATION TO GET THE BALL ROLLING I'LL ADD MORE AS QUESTIONS COME AROUND.
